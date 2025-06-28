@@ -10,4 +10,4 @@ This project classifies news headlines as real or fake using NLP techniques.
 2. Run `fake_news_detector.py` or explore `main_notebook.ipynb`
 
 ## Dataset
-Source: provided in this repository.
+Use this: https://drive.google.com/drive/folders/13hA5eTy3xBxPwdz_jh45V5zoE305VHmX?usp=sharing
